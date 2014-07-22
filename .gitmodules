@@ -1,0 +1,9 @@
+[submodule "opsworks_custom_env"]
+	path = opsworks_custom_env
+	url = git@github.com:joeyAghion/opsworks_custom_env.git
+[submodule "opsworks_delayed_job"]
+	path = opsworks_delayed_job
+	url = https://github.com/joeyAghion/opsworks_delayed_job.git
+[submodule "crontasks-for-opsworks"]
+	path = crontasks-for-opsworks
+	url = https://github.com/hayesgm/crontasks-for-opsworks.git
